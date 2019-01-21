@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CrmFooterComponent implements OnInit {
 
-  constructor() { }
+  constructor() {dfgthyjk }
 
   ngOnInit() {
   }
